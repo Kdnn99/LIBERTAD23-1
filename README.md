@@ -4,4 +4,4 @@ Sitio de aves.
 
 ## Proyectos
 
-- [MultiPage interactiva](https://LIBERTAD23-1.github.io/aves/aves/)
+- [MultiPage interactiva](https://libertad23-1.github.io/aves/aves/)
